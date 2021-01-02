@@ -2,6 +2,8 @@
 
 I'm currently working on AIoT and python. More info coming soon ;)
 
+<img src="https://img.icons8.com/ios-filled/2x/star-wars.png"> Fan
+
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/kannan.krishnan.9081)
 - [Twitter](https://twitter.com/kannan059)
