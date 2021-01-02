@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm currently working on AIoT and python. More info coming soon ;)
+
+### 📫 Where to find me
+- [Facebook](https://www.facebook.com/kannan.krishnan.9081)
+- [Twitter](https://twitter.com/kannan059)
+- [Instagram](https://www.instagram.com/njankannan/)
+- [LinkedIn](https://www.linkedin.com/in/kannan-k-46bb58129/)
+- [More coming Soon...](#)
+
 <!--
 **Kannank97/Kannank97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
