@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on AIoT and python. More info coming soon ;)
+I'm currently working on ML, AIoT and python. More info coming soon ;)
 
 <img src="https://img.icons8.com/ios-filled/2x/star-wars.png"> Fan
 
